@@ -1,0 +1,192 @@
+.profile {
+    width: 100%;
+    min-width: 320px;
+    max-width: 981px;
+    padding: 10px 0;
+    margin: 0 auto 20px auto;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 15px;
+    color: #3c3c3c;
+    font-family: roboto;
+
+    -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), 1px 0 0 rgba(0, 0, 0, 0.1), -1px 0 0 rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), 1px 0 0 rgba(0, 0, 0, 0.1), -1px 0 0 rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), 1px 0 0 rgba(0, 0, 0, 0.1), -1px 0 0 rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), 1px 0 0 rgba(0, 0, 0, 0.1), -1px 0 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), 1px 0 0 rgba(0, 0, 0, 0.1), -1px 0 0 rgba(0, 0, 0, 0.1);
+}
+.profile-ico {
+    width: 85px;
+    height: 85px;
+    background: url("/img/svg/pg_profile.svg") no-repeat center center #ff5348;
+    border-radius: 50px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 1em;
+    color: #ffffff;
+    font-size: 34px;
+}
+.profile-username {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+    font-weight: 600;
+    margin: 10px auto 0 auto;
+}
+.profile-stat-box {
+    width: 100%;
+    padding: 0 0 10px 0;
+    margin: 10px 0 0 0;
+}
+.profile-stat-item {
+    width: 25%;
+    float: left;
+}
+.profile-stat-item strong {
+    font-size: 17px;
+}
+.profile-switch-box {
+    width: 100%;
+    min-width: 320px;
+    max-width: 981px;
+}
+.advert-box {
+    width: 100%;
+    padding: 10px 0 0 0;
+}
+.advert-item {
+    width: 312px;
+    height: auto;
+    display: inline-block;
+    margin: 4px;
+    overflow: hidden;
+}
+.advert-item-title {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 10px auto;
+}
+.advert-item-picture {
+    width: 278px;
+    height: 157px;
+    margin: 7px auto;
+}
+.advert-item-picture img {
+    width: auto;
+    height: inherit;
+    border-radius: 2px;
+}
+.advert-item-block {
+    float: right;
+    margin: 5px 7px 0 0;
+    cursor: pointer;
+}
+.advert-item-stat-box {
+    width: 100%;
+    font-size: 13px;
+    font-weight: 300;
+}
+.advert-item-stat-attr {
+    width: 100%;
+    display: block;
+    padding: 4px 25px;
+    box-sizing: border-box;
+    text-align: left;
+}
+.advert-printer-box {
+    width: 100%;
+    box-sizing: border-box;
+    display: table;
+}
+.advert-printer-place {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 20px 0;
+    display: table-cell;
+}
+.advert-printer-item {
+    width: 173px;
+    padding: 0 7px;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.advert-printer-item-title {
+    height: auto;
+    font-size: 11px;
+    font-weight: 300;
+    margin: 5px 0 0 0;
+    word-break: break-all;
+}
+.advert-printer-item-picture {
+    min-width: 90px;
+    max-width: 159px;
+    height: 90px;
+    overflow: hidden;
+}
+.advert-printer-item-picture img {
+    width: auto;
+    height: inherit;
+    border-radius: 2px;
+}
+.advert-printer-plus {
+    display: inline-block;
+    width: 34px;
+    height: 34px;
+    margin: 30px 4px 0 0;
+    border-radius: 13px;
+    background: #ff5348;
+    background: linear-gradient(to bottom, #ffc0b2, #ff5348);
+    color: #ffffff;
+    text-align: center;
+    text-shadow: 1px 1px 0 #d9493e;
+    line-height: 30px;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: tahoma;
+    cursor: pointer;
+}
+.advert-code-box {
+    width: 100%;
+    margin: 20px 0;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
+.advert-code-place {
+    max-width: 750px;
+    width: 80%;
+    height: 400px;
+    background: #ffffff;
+    border-radius: 2px;
+    border: none;
+    white-space: normal;
+    word-wrap: break-word;
+    resize: none;
+    outline: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

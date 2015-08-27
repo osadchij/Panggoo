@@ -1,0 +1,75 @@
+#ext_prt_ads {
+    padding: 0;
+    margin: 0;
+    font-family: roboto, tahoma, arial, verdana, sans-serif, Lucida Sans;
+    font-size: 15px;
+    background: inherit;
+}
+#ext_prt_ads a {
+    color: #f54f45;
+    padding: 0 2px;
+    font-size: 14px;
+    text-decoration: none;
+    display: inline-block;
+}
+#ext_prt_ads a:hover {
+    text-decoration: underline;
+}
+#ext_prt_ads .display-none {
+    display: none!important;
+}
+#ext_prt_ads .advert-printer-box {
+    width: 100%;
+    box-sizing: border-box;
+    display: table;
+}
+#ext_prt_ads .advert-printer-place {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 20px 0;
+    display: table-cell;
+    text-align: center;
+}
+#ext_prt_ads .advert-printer-item {
+    width: 173px;
+    padding: 0 7px;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+#ext_prt_ads .advert-printer-item-title {
+    height: auto;
+    font-size: 11px;
+    font-weight: 300;
+    margin: 5px 0 0 0;
+    word-break: break-all;
+}
+#ext_prt_ads .advert-printer-item-picture {
+    min-width: 90px;
+    max-width: 159px;
+    height: 90px;
+    overflow: hidden;
+}
+#ext_prt_ads .advert-printer-item-picture img {
+    width: auto;
+    height: inherit;
+    border-radius: 2px;
+}
+#ext_prt_ads .advert-printer-plus {
+    display: inline-block;
+    width: 34px;
+    height: 34px;
+    margin: 30px 4px 0 0;
+    border-radius: 13px;
+    background: #ff5348;
+    background: linear-gradient(to bottom, #ffc0b2, #ff5348);
+    color: #ffffff;
+    text-align: center;
+    text-shadow: 1px 1px 0 #d9493e;
+    line-height: 30px;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: tahoma;
+    cursor: pointer;
+}
